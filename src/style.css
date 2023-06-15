@@ -1,0 +1,26 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.condition{
+  display: flex;
+  align-items: center;
+}
+.wrapper{
+  /* border: 2px solid; */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+button{
+  height: 30px;
+  /* background-color: gray; */
+  color: black;
+  border-radius: 5px;
+  border: none;
+  padding: 5px;
+}
+input{
+  height: 30px;
+}
